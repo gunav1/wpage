@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+p{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+image img{
+    /* display: block; */
+    /* margin-left: auto;
+    margin-right: auto; */
+    width:"20px";
+    height: "20px";
+
+
+}
